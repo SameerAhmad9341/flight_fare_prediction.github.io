@@ -1,6 +1,14 @@
 MIT License
 
-Copyright (c) 2025 SameerAhmad9341
+data Analyst (c) 2025 SameerAhmad9341
+
+MIT License
+
+flight fare prediction (c) 2025 SameerAhmad9341
+
+# MIT License
+
+data analyst (c) 2025 Flight Fare Prediction
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +27,51 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## How to apply this license to your Flight Fare Prediction project
+
+1. Save this file as `LICENSE` at the root of your project repository.
+2. Add the following license header to the top of each source file or notebook (e.g., `.py`, `.ipynb`):
+
+```
+# Flight Fare Prediction - (c) 2025
+# Licensed under the MIT License. See the LICENSE file in the project root for details.
+```
+
+For Jupyter notebooks, you can add the header as the first Markdown cell.
+
+---
+
+## Optional: `package.json` / `setup.py` metadata (example)
+
+If your project has packaging metadata, include a license field. Example for `setup.py`:
+
+```python
+setup(
+    name='flight-fare-prediction',
+    version='0.1.0',
+    license='MIT',
+    # ...
+)
+```
+
+Or `package.json`:
+
+```json
+{
+  "name": "flight-fare-prediction",
+  "version": "0.1.0",
+  "license": "MIT"
+}
+```
+
+---
+
+If you want, I can also:
+
+* Add the license header into your uploaded notebook (`Project 4 - Flight Fare Prediction.ipynb`) and save a copy.
+* Create a short `README.md` incorporating the license and project summary.
+
+Tell me which you'd like and I will do it now.
